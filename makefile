@@ -7,7 +7,7 @@ BINDIR= ./
 all: main
 
 clean:
-	rm -f  ./bonus.exe
+	rm -f  ./p5
 
 main:   
-	$(CC) -o $(BINDIR)P5 $(OBJDIR)P5.c -lgsl -lgslcblas -lm
+	$(CC) -o $(BINDIR)p5 $(OBJDIR)p5.c -lgsl -lgslcblas -lm
