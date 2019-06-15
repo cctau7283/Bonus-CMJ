@@ -18,3 +18,5 @@ And the diagram looks like this.
 For a start, it is needed to initiate and log in. (The screen is unfortunately lost, so only the screenshot of reloading could be taken.)  
 Push the repository after README is finished. Note that I need to repeat this process after screenshoting this.  
 ![Pushing to Git](./img/Git.png)  
+The final repository on the website looks like this.  
+![The Repo on the website](./img/Repo.png)
